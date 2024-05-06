@@ -91,6 +91,8 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 ```
 <img width="467" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/6d31a6d4-0934-4b26-aa08-5ac0479e8d0a">
+
+
 <img width="224" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/3cc55243-77e6-4505-96b7-5a94dcaf63c5">
 
 # Result:
