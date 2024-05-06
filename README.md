@@ -93,7 +93,7 @@ app.launch(share=True)
 
 <img width="605" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/180ee971-ebef-4c4a-bc54-7442903e515f">
 
-<img width="310" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/2a0d1e1c-e91b-4906-a075-a8ad72346e81">
+<img width="605" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/2a0d1e1c-e91b-4906-a075-a8ad72346e81">
 
 # Result:
 Thus the system was trained successfully and the prediction was carried out.
