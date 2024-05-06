@@ -91,10 +91,9 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 ```
 
-<img width="707" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/6d31a6d4-0934-4b26-aa08-5ac0479e8d0a">
+<img width="605" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/180ee971-ebef-4c4a-bc54-7442903e515f">
 
-
-<img width="600" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/3cc55243-77e6-4505-96b7-5a94dcaf63c5">
+<img width="310" alt="image" src="https://github.com/Vineesha29031970/Ex13_miniproject/assets/133136880/2a0d1e1c-e91b-4906-a075-a8ad72346e81">
 
 # Result:
 Thus the system was trained successfully and the prediction was carried out.
